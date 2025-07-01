@@ -3,7 +3,7 @@
 </p>
 
 # 🧠 ᴀʙᴏᴜᴛ
-<i>ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ ᴍᴀᴅᴇ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ & ʜᴏsᴛᴀʙʟᴇ ᴏɴ ʀᴇɴᴅᴇʀ / ʜᴇʀᴏᴋᴜ/ ᴠᴘs. </i>
+<i>ᴀᴅᴠᴀɴᴄᴇᴅ ᴛᴇʟᴇɢʀᴀᴍ ᴄʜᴀᴛʙᴏᴛ ᴍᴀᴅᴇ ᴡɪᴛʜ ᴘʏʀᴏɢʀᴀᴍ & ʜᴏsᴛᴀʙʟᴇ ᴏɴ ʀᴇɴᴅᴇʀ / ʜᴇʀᴏᴋᴜ / ᴠᴘs.</i>
 
 ---
 
@@ -41,7 +41,7 @@ Need help? <a href="https://youtu.be/81Zn2ZBoUsw">Watch the Tutorial</a></i>
 <p align="center">
   <img src="https://img.shields.io/github/stars/Its-starXboi/Chatbot?style=social" />
   <img src="https://img.shields.io/github/forks/Its-starXboi/Chatbot?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=Its-starXboi&label=Views&color=blue&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Its-starXboi&label=Repo+Views&color=blue&style=flat" />
 </p>
 
 ---
@@ -54,12 +54,4 @@ Need help? <a href="https://youtu.be/81Zn2ZBoUsw">Watch the Tutorial</a></i>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://telegram.me/StarXNetwork">
-    <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</p>
+<p align
